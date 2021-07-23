@@ -11,15 +11,15 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'hotsno',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning,',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Good evening,',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -37,39 +37,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'GitHub',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/hotsno',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Anime List',
+      icon: 'film',
+      link: 'https://anilist.co/user/hotsno/animelist',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Manga List',
+      icon: 'book',
+      link: 'https://anilist.co/user/hotsno/mangalist',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'MyAnimeList',
+      icon: 'list',
+      link: 'http://myanimelist.net/',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'AniKuru',
+      icon: 'play',
+      link: 'https://anikuru.me/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Z-Lib',
+      icon: 'book-open',
+      link: 'https://1lib.us/',
     },
   ],
 
